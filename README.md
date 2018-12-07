@@ -14,7 +14,7 @@ I've made some minor modifications that:
 
 ## Usage
 
-1. Run the binary, specifying the port as a command-line argument: `./ws 8080'
+1. Run the binary, specifying the port as a command-line argument: `./ws 8080`
 2. Point a web browser at the IP address and port where the app is running (the app defaults to listening on every interface)
 3. Type commands into the form, and view the output *(see example screenshot below)*
 
