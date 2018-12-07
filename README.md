@@ -28,4 +28,4 @@ If you don't care to compile this yourself, I release the program as binaries fo
 * Mac, Linux, and Windows; on 
 * x86, amd64, arm, and arm64. 
 
-Just grab them from the [releases link](https://github.com/rossja/webshocket/releases)m and go.
+Just grab them from the [releases link](https://github.com/rossja/webshocket/releases) and go.
