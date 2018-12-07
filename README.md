@@ -10,8 +10,7 @@ I've made some minor modifications that:
 
 1. hard-code `/bin/sh` as the command to bind to the websocket
 2. support running the server on a user-specified port
-3. embed the html content as b64 encoded string rather than using an external file 
-  - (this is, arguably, more useful for red-teaming scenarios)
+3. embed the html content as b64 encoded string rather than using an external file (this is, arguably, more useful for red-teaming scenarios)
   
 # Binaries
 
